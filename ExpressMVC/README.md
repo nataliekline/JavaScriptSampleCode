@@ -1,1 +1,0 @@
-A simple `Express` app that show the basic CRUD operations for a Toy model.
